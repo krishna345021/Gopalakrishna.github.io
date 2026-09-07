@@ -1,4 +1,4 @@
-# Krishna — Personal Portfolio Website ("Building with Data")
+# GOPALAKrishna — Personal Portfolio Website ("Building with Data")
 
 A recruiter-focused, editorial portfolio website built for **Krishna**, a B.Tech Computer Science and Engineering candidate specializing in **Data Science** (2022–2026) at **Amrita Sai Institute of Science and Technology**.
 
