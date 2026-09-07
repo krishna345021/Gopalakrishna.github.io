@@ -1,0 +1,5 @@
+To enable direct resume download:
+Place your actual resume PDF file in this directory and name it:
+resume.pdf
+
+The "Download Resume" button on the website will automatically serve /resume.pdf.
